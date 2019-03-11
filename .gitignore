@@ -1,0 +1,4 @@
+idea/
+wp-content/themes/cheersport/assets/node_modules/
+wp-content/themes/cheersport/assets/*.html
+wp-config/git commit -m "first commit"
